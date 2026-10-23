@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Safa Akdeniz</h1>
-<h3 align="center">AI ile kişisel araçlar ve oyun prototipleri geliştiriyorum.</h3>
+<h3 align="center">Building personal tools and game prototypes with AI.</h3>
 
 <p align="center">
-  Fikirleri kullanışlı uygulamalara dönüştürüyor,<br>
-  küçük adımlarla geliştirip deneyerek öğreniyorum.
+  Turning ideas into useful applications,<br>
+  learning through small steps and hands-on experiments.
 </p>
 
 ---
 
-### 👨‍💻 Neler yapıyorum?
+### 👨‍💻 What I'm working on
 
-- 🧠 Bilgi keşfi, öğrenme ve verimlilik için kişisel araçlar geliştiriyorum.
-- 🎙️ Sesli asistanlar ve masaüstü deneyimleri üzerinde çalışıyorum.
-- 🎮 Unity ve Godot ile küçük oyun prototipleri deniyorum.
-- 🛠️ AI destekli geliştirme, arayüz tasarımı ve test süreçleriyle ilgileniyorum.
+- 🧠 Personal tools for discovery, learning, and productivity.
+- 🎙️ Voice assistants and desktop experiences.
+- 🎮 Small game prototypes with Unity and Godot.
+- 🛠️ Exploring AI-assisted development, interface design, and testing.
 
-### 🚀 Diller ve araçlar
+### 🚀 Languages & tools
 
 <p>
   <img src="docs/assets/tech/python.svg" alt="Python" title="Python" width="42" height="42">&nbsp;
@@ -34,18 +34,18 @@
   <img src="docs/assets/tech/git.svg" alt="Git" title="Git" width="42" height="42">
 </p>
 
-<sub>Mevcut projelerimde kullandığım teknolojiler. İkonlar: <a href="https://github.com/devicons/devicon">Devicon</a> · <a href="docs/assets/tech/LICENSE">MIT lisansı</a>.</sub>
+<sub>Technologies used in my projects. Icons: <a href="https://github.com/devicons/devicon">Devicon</a> · <a href="docs/assets/tech/LICENSE">MIT license</a>.</sub>
 
-### 📊 GitHub istatistikleri
+### 📊 GitHub stats
 
 <p>
   <a href="https://github.com/safa-akdeniz?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=safa-akdeniz&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;hide_rank=true&amp;locale=tr" alt="Safa Akdeniz'in herkese açık GitHub istatistikleri" width="467">
+    <img src="https://github-readme-stats.vercel.app/api?username=safa-akdeniz&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;hide_rank=true&amp;locale=en" alt="Safa Akdeniz's public GitHub stats" width="467">
   </a>
 </p>
 
-<sub>Çalışmalarımın çoğu özel depolarda gelişiyor. Bu kart yalnızca herkese açık verileri gösterir; tüm proje etkinliğimi yansıtmaz. Kart harici bir hizmetten yüklenir.</sub>
+<sub>Most of my work is currently in private repositories. This card shows public activity only and does not reflect all of my projects. It loads from an external service.</sub>
 
 ---
 
-<p align="center"><b>Fikir → Prototip → Dene → İyileştir</b></p>
+<p align="center"><b>Idea → Prototype → Test → Improve</b></p>
